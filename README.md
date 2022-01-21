@@ -1,5 +1,5 @@
 # birthday-tracker
-A web application that allows users to keep track of peoples' birthdays
+A very simplistic web application that allows users to keep track of peoples' birthdays
 
 ![Index Page Screenshot](/readme_imgs/index.png)
 
