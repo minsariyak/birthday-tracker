@@ -1,5 +1,5 @@
 # birthday-tracker
-A very simplistic web application that allows users to keep track of peoples' birthdays
+A very simplistic web application that allows users to keep track of peoples' birthdays. Technologies employed include HTML, CSS, SQL, and Python. 
 
 ![Index Page Screenshot](/readme_imgs/index.png)
 
